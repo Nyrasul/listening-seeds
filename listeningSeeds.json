@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "id": "yt-eIho2S0ZahI",
+    "source": "youtube",
+    "youtubeId": "eIho2S0ZahI",
+    "title": "How to speak so that people want to listen | Julian Treasure",
+    "channel": "TED",
+    "overview": "Have you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.",
+    "year": "2014",
+    "duration": "9m 58s",
+    "durationSec": 598,
+    "thumb": "https://i.ytimg.com/vi/eIho2S0ZahI/hqdefault.jpg",
+    "avatar": "https://ui-avatars.com/api/?name=TED&background=FF0000&color=fff&bold=true",
+    "tags": ["TED Talks", "Public Speaking", "For You"],
+    "difficulty": 6,
+    "captions": [
+      { "time": 0, "text": "The human voice: It's the instrument we all play." },
+      { "time": 3, "text": "It's the most powerful sound in the world, probably." },
+      { "time": 7, "text": "It's the only one that can start a war or say 'I love you.'" }
+    ]
+  },
+  {
+    "id": "vidsrc-157336",
+    "source": "vidsrc",
+    "tmdbId": 157336,
+    "title": "Interstellar",
+    "channel": "Cinema",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "year": "2014",
+    "duration": "2h 49m",
+    "durationSec": 10140,
+    "thumb": "https://wsrv.nl/?url=https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg&w=400&output=webp",
+    "avatar": "https://ui-avatars.com/api/?name=VS&background=0d1117&color=58a6ff&bold=true",
+    "tags": ["Movies", "Sci-Fi", "For You"],
+    "difficulty": 8,
+    "captions": null
+  },
+  {
+    "id": "podcast-bbc-6min-001",
+    "source": "podcast",
+    "audioUrl": "https://downloads.bbc.co.uk/podcasts/worldservice/p02qvl5z/p02qvl5z.mp3",
+    "title": "The psychology of money",
+    "channel": "BBC 6 Minute English",
+    "overview": "Why do we spend money we don't have? Neil and Sam discuss the psychology behind our spending habits and teach you related vocabulary along the way. Perfect for IELTS Listening Part 3 practice.",
+    "year": "2023",
+    "duration": "6m 12s",
+    "durationSec": 372,
+    "thumb": "https://wsrv.nl/?url=https://ichef.bbci.co.uk/images/ic/1200x675/p099hdlk.jpg&w=400&output=webp",
+    "avatar": "https://ui-avatars.com/api/?name=BBC&background=000000&color=fff&bold=true",
+    "tags": ["Podcasts", "IELTS", "Vocabulary"],
+    "difficulty": 5,
+    "captions": null
+  },
+  {
+    "id": "audiobook-sherlock-01",
+    "source": "audiobook",
+    "audioUrl": "https://ia800207.us.archive.org/34/items/adventures_holmes_1101_librivox/adventuresofsherlockholmes_01_doyle_64kb.mp3",
+    "title": "A Scandal in Bohemia",
+    "channel": "The Adventures of Sherlock Holmes",
+    "overview": "To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex...",
+    "year": "1892",
+    "duration": "43m 15s",
+    "durationSec": 2595,
+    "thumb": "https://wsrv.nl/?url=https://archive.org/services/img/adventures_holmes_1101_librivox&w=400&output=webp",
+    "avatar": "https://ui-avatars.com/api/?name=LV&background=228B22&color=fff&bold=true",
+    "tags": ["Audiobooks", "Literature", "Advanced"],
+    "difficulty": 9,
+    "captions": null
+  }
+]
